@@ -20,7 +20,7 @@ const PrivacyPolicy=()=> {
       </h2>
       <div className="text-gray-700 space-y-1">
         <p>
-          <strong>Owner Name:</strong> Dr. Dhiraj Jain
+          <strong>Owner Name:</strong> Dhiraj Jain
         </p>
 
         <p>

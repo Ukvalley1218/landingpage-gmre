@@ -45,7 +45,7 @@ const FAQSection = () => {
     {
       question: "Is this book useful for small or mid-sized developers?",
       answer:
-        "Dr. Dhiraj Jain has empowered 50,000+ people, leads philanthropic initiatives, and hosts MJLifeTalk podcast. She combines professional expertise with a passion for making knowledge accessible.",
+        "Dhiraj Jain has empowered 50,000+ people, leads philanthropic initiatives, and hosts MJLifeTalk podcast. She combines professional expertise with a passion for making knowledge accessible.",
     },
   ];
 
@@ -386,7 +386,7 @@ const FAQSection = () => {
 
           <p className="text-center text-gray-300 text-sm">
             © 2026
-            <a href="https://drdhirajjain.com/" target="blank" className="hover:text-yellow-400 cursor-pointer"> Dr. Dhiraj Jain. </a>
+            <a href="https://drdhirajjain.com/" target="blank" className="hover:text-yellow-400 cursor-pointer"> Dhiraj Jain. </a>
             All Rights Reserved.
           </p>
 

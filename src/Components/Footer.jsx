@@ -474,7 +474,7 @@ const Footer = () => (
     </div>
     <div className="footer-divider" />
     <div className="footer-bottom">
-      © 2026 Dr. Dhiraj Jain. All rights reserved.
+      © 2026 Dhiraj Jain. All rights reserved.
     </div>
   </footer>
 );

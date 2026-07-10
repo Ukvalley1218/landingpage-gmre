@@ -319,7 +319,7 @@ const AuthorSection = () => {
   rel="noopener noreferrer"
   className="cursor-pointer"
 >
-  Dr. Dhiraj Jain
+  Dhiraj Jain
 </a>
 
           </div>
@@ -384,7 +384,7 @@ const AuthorSection = () => {
           {/* Image above, clipped to a circle */}
           <img loading = "lazy"
             src={mainimage}
-            alt="Dr. Mamata Dhiraj Jain"
+            alt="Mamata Dhiraj Jain"
             className="author-image pb-12 lg:pb-0"
           />
         </div>
@@ -397,7 +397,7 @@ const AuthorSection = () => {
   </center>
   <div className='author-black-content w-full mx-auto text-center'>
     <center className="author-black-text lg:text-[18px] md:text-[17px] text-[16px] sm:text-[17px] md:text-justify lg:text-justify text-center text-white mt-5 px-4 md:px-8 lg:px-16 leading-relaxed">
-      Dr. Dhiraj Jain has been honoured with prestigious recognitions such as {" "}
+      Dhiraj Jain has been honoured with prestigious recognitions such as {" "}
       <span className="text-[#C89B3C] font-bold">The Economic Times Indo Global Leaders Award,</span> being listed among 
       <span className="text-[#C89B3C] font-bold"> The Most Influential CEOs,</span> and receiving {" "}
       <span className="text-[#C89B3C] font-bold">The Iconic Power Couple of the UAE, award by India Today Group</span> a testament to his leadership, vision, and industry-defining contributions. Through

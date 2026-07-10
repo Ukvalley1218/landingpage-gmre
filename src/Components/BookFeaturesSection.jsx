@@ -1,7 +1,7 @@
 import React from 'react';
 import bookimage from '../assets/heroimges1.png';
 import { MdMenuBook } from 'react-icons/md';
-import bookImage from '../assets/whatisinside.png'
+import bookImage from '../assets/whatisinside.webp'
 
 // ---- COLOR PALETTE USED IN SECTION ----
 const COLORS = {

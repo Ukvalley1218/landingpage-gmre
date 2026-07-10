@@ -144,7 +144,7 @@ A practical guide designed for professionals and investors who want smarter, mor
           
           {/* Author name */}
           <p className="text-yellow-500 font-semibold text-lg">
-            — Dr. Dhiraj Jain
+            — Dhiraj Jain
           </p>
         
         {/* Red arrow pointing down */}

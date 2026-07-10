@@ -1,5 +1,5 @@
 import React from 'react'
-import bookimage from '../assets/whoisthis.png'
+import bookimage from '../assets/whoisthis.webp'
 
 // ---- COLOR PALETTE USED IN SECTION ----
 const COLORS = {

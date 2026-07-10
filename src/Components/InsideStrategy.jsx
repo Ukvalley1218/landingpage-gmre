@@ -3,7 +3,7 @@ import React from "react";
 // update these imports/paths to your actual images
 // import bookImage from "../assets/bookimages.png";
 import bookShadow from "../assets/bookshadow.png";
-import bookImage from '../assets/whatisinside.png'
+import bookImage from '../assets/whatisinside.webp'
 
 const GuerrillaMarketingSection = () => {
     const ref = sessionStorage.getItem("reference") || "direct";

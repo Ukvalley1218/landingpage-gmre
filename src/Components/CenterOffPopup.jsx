@@ -102,7 +102,7 @@ export default function CenterOfferPopup() {
         </button>
 
         <h2 style={title}>Guerilla Marketing In Real Estate</h2>
-        <p style={author}>By <strong>Dr. Dhiraj Jain</strong></p>
+        <p style={author}>By <strong>Dhiraj Jain</strong></p>
 
         <img src={ceo} alt="The Lazy CEO" style={bookImage} />
 
