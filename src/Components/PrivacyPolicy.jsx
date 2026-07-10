@@ -38,7 +38,7 @@ const PrivacyPolicy=()=> {
             rel="noreferrer"
             className="text-blue-600 hover:underline"
           >
-            DrDhirajJain.com
+            DhirajJain.com
           </a>
         </p>
 
@@ -66,7 +66,7 @@ const PrivacyPolicy=()=> {
           rel="noreferrer"
           className="text-blue-600 hover:underline"
         >
-          DrDhirajJain.com
+          DhirajJain.com
         </a> values your privacy and is committed to protecting your personal data. 
         This Privacy Policy explains how we collect, use, share, and safeguard information when you 
         use our website and services, including SaaS products, online courses, events, podcasts, travel 

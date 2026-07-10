@@ -27,7 +27,7 @@ const ShippingPolicy = () => {
           rel="noreferrer"
           className="text-blue-600 hover:underline"
         >
-          DrDhirajJain.com
+          DhirajJain.com
         </a>
       </p>
 
@@ -51,7 +51,7 @@ const ShippingPolicy = () => {
           target="_blank"
           rel="noreferrer"
           className="text-blue-600 hover:underline"
-        > DrDhirajJain.com
+        > DhirajJain.com
         </a>, including physical products, event tickets, and related services. By
         purchasing from the Website, users agree to the terms outlined in this Policy.
       </p>
@@ -184,7 +184,7 @@ const ShippingPolicy = () => {
           rel="noreferrer"
           className="text-blue-600 hover:underline"
         >
-          DrDhirajJain.com.
+          DhirajJain.com.
         </a>
       </p>
 
@@ -197,7 +197,7 @@ const ShippingPolicy = () => {
           rel="noreferrer"
           className="text-blue-600 hover:underline"
         >
-          DrDhirajJain.com.
+          DhirajJain.com.
         </a> All rights reserved. This policy may
         be updated without prior notice as required by law or business needs.
       </p>

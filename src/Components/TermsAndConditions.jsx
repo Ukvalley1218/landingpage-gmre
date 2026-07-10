@@ -22,7 +22,7 @@ const TermsAndConditions = () => {
           rel="noreferrer"
           className="text-blue-600 hover:underline"
         >
-          DrDhirajJain.com
+          DhirajJain.com
         </a> (the "Website") and any of the services 
           provided through the Website—including SaaS platforms, online courses, podcasts, 
           events, travel services, real estate services, and other offerings—you agree to be 
@@ -282,7 +282,7 @@ const TermsAndConditions = () => {
         </h2>
         <p>
           <strong>Owner: <a href="https://DrDhirajJain.com" className="text-blue-600 hover:underline" target="_blank" rel="noreferrer">
-          DrDhirajJain.com
+          DhirajJain.com
         </a></strong><br />
           Email ID: <a href="mailto:support@1XL.com" target="_blank" className="text-blue-600 hover:underline">
           support@1XL.com
@@ -301,7 +301,7 @@ const TermsAndConditions = () => {
           rel="noreferrer"
           className="text-blue-600 hover:underline"
         >
-          DrDhirajJain.com
+          DhirajJain.com
         </a>. All Rights Reserved.
     </p>
   </div>
